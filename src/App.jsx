@@ -225,7 +225,7 @@ const App = () => {
                 <a href="https://github.com/NikhilGoral28" target="_blank" rel="noreferrer" className="text-slate-500 hover:text-blue-400 transition-all duration-300">
                   <Github size={20} />
                 </a>
-                <a href="https://linkedin.com/in/NikhilGoral" target="_blank" rel="noreferrer" className="text-slate-500 hover:text-blue-400 transition-all duration-300">
+                <a href="https://linkedin.com/in/nikhil-goral-340266259" target="_blank" rel="noreferrer" className="text-slate-500 hover:text-blue-400 transition-all duration-300">
                   <Linkedin size={20} />
                 </a>
               </div>
@@ -592,7 +592,7 @@ const App = () => {
             <a href="mailto:nikhilgoral587@gmail.com" className="flex items-center gap-2 text-slate-300 hover:text-blue-500 transition-all duration-300">
               <MailIcon size={20} /> nikhilgoral587@gmail.com
             </a>
-            <a href="https://linkedin.com/in/NikhilGoral" target="_blank" rel="noreferrer" className="flex items-center gap-2 text-slate-300 hover:text-blue-500 transition-all duration-300">
+            <a href="https://linkedin.com/in/nikhil-goral-340266259" target="_blank" rel="noreferrer" className="flex items-center gap-2 text-slate-300 hover:text-blue-500 transition-all duration-300">
               <Linkedin size={20} /> LinkedIn
             </a>
             <a href="https://github.com/NikhilGoral28" target="_blank" rel="noreferrer" className="flex items-center gap-2 text-slate-300 hover:text-blue-500 transition-all duration-300">
